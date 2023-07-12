@@ -23,9 +23,15 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.custom-navbar {
+  outline: 4px solid white;
+}
+
+
 
 .App-link {
   color: #61dafb;
+  outline :black;
 }
 
 @keyframes App-logo-spin {
